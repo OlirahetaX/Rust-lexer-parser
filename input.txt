@@ -1,0 +1,15 @@
+let x = 10;
+let y = 20;
+
+if x < y {
+
+	let resultado = 23;
+	if true {
+		x = 10;
+	}
+
+} else {
+	
+	hello;
+        return;
+}
